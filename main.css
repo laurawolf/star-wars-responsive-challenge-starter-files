@@ -1,19 +1,41 @@
 
 header {
 	background-color: #eebb44;
+	margin-bottom: 40px;
 }
 
-main {
-  padding-top: 100px;
+body {
+	font-family: "Roboto", sans-serif;
+	color: #252525;
 }
 
-img {
- width: 100%
+h1 {
+	line-height: 1;
+	margin-bottom: 0;
 }
+
+header p {
+	margin-top: 0.5em;
+}
+
 .box {
-  height: 400px;
-  width: 300px;
-  text-align: center;
-  padding-top: 30px;
-  border: 1px solid black;
+	border: 1px solid #E5E5E5;
+	margin-bottom: 20px;
+}
+
+.box img {
+	width: 100%;
+}
+
+.description {
+	padding: 20px;
+}
+
+.description h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.description p {
+	margin: 0.5em 0;
 }
