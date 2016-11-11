@@ -1,0 +1,19 @@
+
+header {
+	background-color: #eebb44;
+}
+
+main {
+  padding-top: 100px;
+}
+
+img {
+ width: 100%
+}
+.box {
+  height: 400px;
+  width: 300px;
+  text-align: center;
+  padding-top: 30px;
+  border: 1px solid black;
+}
